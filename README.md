@@ -1,9 +1,9 @@
 ### Hi there, this is Bo Wang (王博) 👋
-- I am a Postdoc at the [Department of Earth & Environment](https://www.bu.edu/earth/) of [Boston University](https://www.bu.edu/).
+- I am an Atmospheric Scientist and Data Scientist.
 - I have been studying the atmosphere and environment of the Earth using extensive modeling and observation data.
-- Currently I am interested in machine learning techniques and looking for their applications in data-driven industry.
+- I am interested in machine learning techniques and looking for their applications in data-driven industry.
 - 📫 How to reach me:
-    * Email: bwang.ats@gmail.com or bowang@bu.edu
+    * Email: bowang.ds@gmail.com or bwang.ats@gmail.com
     * <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width=20px> My Github: [Bo Wang](https://github.com/BoWang11)
 
 
